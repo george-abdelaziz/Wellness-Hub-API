@@ -47,7 +47,7 @@ app.use("/api/v1/products", productRoute);
 app.use("/api/v1/meals", mealsRoute);
 app.use("/api/v1/orders", orderRoute);
 app.use("/api/v1/checkout", checkoutRoute);
-app.use("/api/v1/recipies", recipeRoute);
+app.use("/api/v1/recipes", recipeRoute);
 app.use("/api/v1/feedback", feedbackRoute);
 app.use("/api/v1/event", eventRoute);
 
